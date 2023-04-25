@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Grzegorz Bednarek
 
-**`Student/Self-taught future developer (hope so)`**
+**`Student
 
 I'm a student at Lodz University of Technology and right now I'm studying Applied Computer Science. My journey with computers began since I was 12 years old and as I got older, using computers was easier for me, year by year. In highschool I learned my first programming language - C++, which started my programming journey I'm going through today. 
 My studies showed me many tools and possibilities I can use for my future projects or in my work, when I graduate. Right now I want to focus on my studies, but also spend some time on my own projects and learning. 
