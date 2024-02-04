@@ -16,7 +16,7 @@ I'm a student at Lodz University of Technology and right now I'm studying Applie
 #### Learning
 <img align="left" alt="Kotlin" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="OpenGL" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" />
-<img align="left" alt="SDL" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-plain.svg" />
+
 <br/>
 
 ### Tools I use
