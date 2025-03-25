@@ -5,6 +5,8 @@ I'm a student at Lodz University of Technology and right now I'm studying second
 
 My biggest projects are Gelatinous Jumper, made in Godot, and LightLured - horror game made in Unity for my Engineer Thesis.
 
+My main hobby is (except for video games) video editing and 2D graphics. I worked on many video projects for my friends, but also made some projects for commercial purposes. For 2D graphics I mainly use Adobe Illustrator. I created a visual identity for the psychology podcast "(Wy)słuchani", accredited by the University of Lodz in Poland, and also worked on student's project for the 80th Anniversary of Lodz University of Technology.
+
 # 🖥️ Tools I use
 ### Languages
 <img align="left" alt="C++" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
