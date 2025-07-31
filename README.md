@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Grzegorz Bednarek
 ### **`Student and Engineer`**
 
-I'm a student at Lodz University of Technology and right now I'm studying second degree of Applied Computer Science. I'm specializing in Game Development and Computer Graphics.
+I'm a student at Lodz University of Technology and right now I'm studying second degree Applied Computer Science. I'm specializing in Game Development and Computer Graphics.
 
 My biggest projects are Furninotura - RTS game made in my own game engine with Monogame, and LightLured - horror game made in Unity for my Engineer Thesis.
 
